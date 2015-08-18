@@ -6,7 +6,6 @@ pod 'pop', '~> 1.0'
 
 #UI
 pod 'ChameleonFramework'
-pod "extFieldEffects"
 pod 'JDStatusBarNotification'
 pod 'JSQMessagesViewController' 
 pod 'KVOController'

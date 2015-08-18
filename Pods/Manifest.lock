@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ChameleonFramework (1.2.1):
+    - ChameleonFramework/Default (= 1.2.1)
+  - ChameleonFramework/Default (1.2.1)
+  - JDStatusBarNotification (1.5.2)
+  - JSQMessagesViewController (7.1.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - KVOController (1.0.3)
+  - pop (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - ChameleonFramework
+  - JDStatusBarNotification
+  - JSQMessagesViewController
+  - KVOController
+  - pop (~> 1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  ChameleonFramework: 3476f813ac1615aef0a9a958f05520dfca47e09d
+  JDStatusBarNotification: a36d09ccbb047217572b074a61e7ca10dddc5f0a
+  JSQMessagesViewController: ca11f86fa68ca70835f05e169df9244147c1dc40
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  KVOController: 9fd8f0343670994e4b6f9f0b31f5a45663f3e1cf
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+
+COCOAPODS: 0.38.2
